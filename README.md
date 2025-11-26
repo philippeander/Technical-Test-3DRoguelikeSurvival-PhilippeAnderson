@@ -11,6 +11,9 @@ Mecânicas:
 - Inimigos perseguem e causam dano por contato
 - Inimigos soltam orbs de XP
 - Ao subir de nível: pausa e mostra 2 cartas de upgrade (escolha 1)
+- Sistema Basico de mapa procedural com grau de radidade para cada chunk
+- Inimigos são gerados com base no nível do jogador.
+- Sistema não destrutivo de criação de Skills.
 
 Upgrades incluídos:
 - Melee
