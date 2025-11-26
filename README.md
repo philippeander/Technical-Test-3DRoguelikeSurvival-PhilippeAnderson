@@ -1,10 +1,10 @@
 Projeto: Roguelike Survival 3D - Prototype
 
-Unity: 6000.1.9f1
+Unity: 6000.0.58f2
 
 Controles:
 - WASD: mover
-- Esc: pausar
+- Esc: pausar/Sair
 
 Mecânicas:
 - Ataque automático: a cada Xs ataca inimigos próximos
@@ -13,15 +13,23 @@ Mecânicas:
 - Ao subir de nível: pausa e mostra 2 cartas de upgrade (escolha 1)
 
 Upgrades incluídos:
-- Aumento de dano
-- Aumento de velocidade
-- Aumento de alcance do ataque
+- Melee
+- Shot foward
+- Shot 4 directions
+- orbiting projectile
+- Damage Field
+- Speed Buff
+- Heal
 
 Como rodar:
 - Abrir cena SampleScene, pressionar Play
+- O ataque padrão é o Melee, caracterizado por um cubo verde que fica piscando na frente do jogador
 
 Build:
 - Pasta Build/Windows/ (incluir .exe)
 
 Observações:
 - Parâmetros expostos no Inspector para ajustes rápidos.
+
+Link para download da build:
+https://drive.google.com/file/d/1YQJyCliRA4TM6yuEvEmzdNQsARGoK2j_/view?usp=sharing 
