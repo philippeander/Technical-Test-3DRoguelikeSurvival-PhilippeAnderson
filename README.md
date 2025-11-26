@@ -18,6 +18,7 @@ Mecânicas:
 - Sistema Basico de mapa procedural com grau de radidade para cada chunk
 - Inimigos são gerados com base no nível do jogador.
 - Sistema não destrutivo de criação de Skills.
+- Sistema de Object Pooling.
 
 Upgrades incluídos:
 - Melee
