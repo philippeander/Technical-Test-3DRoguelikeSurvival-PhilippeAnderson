@@ -1,5 +1,9 @@
 Projeto: Roguelike Survival 3D - Prototype
 
+<div style="text-align: center;">
+  <img src="./images/Screenshot 2025-11-26 202706.png" alt="image logo" width="512" height="auto">
+</div>
+
 Unity: 6000.0.58f2
 
 Controles:
